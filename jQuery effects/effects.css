@@ -1,3 +1,49 @@
-body{
-    background:red;
+div.hide,div.show{
+    background-color:teal;
+    height:100px;
+    width:100px;
+    float:left;
+    margin:20px;
+    /* padding:50px; */
+}
+.show{
+    display:none;
+}
+
+
+div.fadeToggle{
+    background-color:yellow;
+    height:100px;
+    width:100px;
+    float:left;
+    margin:20px;
+}
+div.slide{
+    background-color:lightgreen;
+    height:100px;
+    width:100px;
+    float:left;
+    margin:20px;
+}
+
+div.slidedwn{
+    display:none;
+    background-color:orange;
+    height:100px;
+    width:100px;
+    float:left;
+    margin:20px;
+}
+.formar{
+    margin-top:120px;
+}
+.formardown{
+    margin-bottom:120px
+}
+div.slidetoggle{
+    background-color:steelblue;
+    height:100px;
+    width:100px;
+    float:left;
+    margin:20px;
 }
