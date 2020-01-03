@@ -1,0 +1,27 @@
+*{
+	border-width: : 1px;
+	border-color: lightgrey;
+	border-style: solid;
+}
+body{
+	background: pink;
+}
+li a{
+	color: red;
+}
+h3 + ul{
+	border: 2px solid red;
+}
+
+li:nth-child(even){
+	background: lightgrey;
+}
+a[href="https://www.facebook.com"]{
+	color:blue;
+}
+
+li:nth-child(1){
+	background:green;
+}
+
+
