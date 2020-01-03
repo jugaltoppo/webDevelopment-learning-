@@ -1,0 +1,37 @@
+h1{
+	font-family: "vibes";
+	font-size:5em;
+}
+p{
+	font-family:"Indie Flower";
+		font-size:2em;
+}
+body{
+	font-size: 15px;
+}
+span{
+	font-size: 2em;
+}
+/*line height*/
+p{
+	line-height:1.5;
+}
+
+/*font weight*/
+p{
+	font-weight:normal;
+}
+
+/*text align*/
+h1{
+	text-align: center;
+}
+/*text decoration*/
+
+h1{
+	text-decoration:line-through;
+}
+p {
+	text-decoration: overline;
+}
+
